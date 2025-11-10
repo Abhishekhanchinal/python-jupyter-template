@@ -1,3 +1,0 @@
-ipykernel
-pydantic
-matplotlib
